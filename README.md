@@ -13,3 +13,5 @@ NXP i.MX7D board - https://developer.android.com/things/hardware/imx7d.html
 
 
 
+
+
